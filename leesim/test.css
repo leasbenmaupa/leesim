@@ -1,0 +1,25 @@
+@font-face {
+ font-family: FF Unit Pro Regular;
+  src: url(/sites/iakplus.opencampus.net/themes/iakplus_theme/fonts/FF-Unit/303064_1_0.ttf) format("truetype");
+} 
+body {
+  margin-top: 0px;
+  margin-left: 0px; 
+  font-family: "FF Unit Pro Regular";
+} 
+#page_1 {
+  position:relative; 
+  overflow: hidden;
+  margin: 0px 0px 0px 0px;
+  padding: 0px;
+  border: none;
+} 
+#img1 {width:200px; position:fixed; bottom: 75px; right: 20px;}
+.p2 {text-align: center;margin-bottom: 0px;}
+.p3{text-align: center;margin-top: 25px;margin-bottom: 0px;}
+#page_3 {background-color: #E0E0E0; margin: 25 0 25 0;} 
+.ft2{font: 38px ;line-height: 40px;} 
+.ft3{font: 20px "FF Unit Pro Regular";line-height: 26px;} 
+.ft4{font-size: 33px "sans-serif";padding-top: 15px;padding-bottom: 15px;} 
+.ft5{font-size: 17px "FF Unit Pro Regular", serif;padding-top: 15px;padding-bottom: 15px;line-height: 1.3;} 
+.ft6{font-size: 15px;}
